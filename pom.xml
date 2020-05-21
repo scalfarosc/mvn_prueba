@@ -7,13 +7,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>JenkinsWar1</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
-
-  <groupId>org.apache.maven.plugins</groupId>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>3.2.3</version>
-  <type>maven-plugin</type>
-  
+  <version>0.0.1-SNAPSHOT</version>  
   
   <name>JenkinsWar-Maven-Webapp</name>
   <!-- FIXME change it to the project's website -->
